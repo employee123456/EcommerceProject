@@ -6,3 +6,4 @@ Feature: Payment
     And user will enter the email annd password
     When click on the signin button
     Then Uer will login
+    Then user will go to the payment option
